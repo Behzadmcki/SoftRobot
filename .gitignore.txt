@@ -1,5 +1,4 @@
-# Created by https://www.toptal.com/developers/gitignore/api/altium,c
-# Edit at https://www.toptal.com/developers/gitignore?templates=altium,c
+
 
 ### Altium ###
 # Previews Folders
@@ -76,5 +75,3 @@ Mkfile.old
 dkms.conf
 
 # End of https://www.toptal.com/developers/gitignore/api/altium,c
-*/__Previews/*
-*/History/*
